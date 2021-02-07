@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Edureka_MyFirstApplication</string>
+    <string name="hello">Hi from Edureka.....</string>
+
+
+    <string name="hi_edureka">Hi Edureka</string>
+    <string name="landed_in_loginauth_activity">Landed in LoginAuth Activity</string>
+
+</resources>
